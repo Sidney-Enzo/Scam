@@ -1,0 +1,10 @@
+# [Unreleased] - 0.1.0
+## Added
+ - Camera motion Detection by frame difference
+ - automatic nightvision based in the saturation and the brightness
+ - Date and hour displayer
+ - FPS displayer 
+ - FPS CAP (Cap fps to maximum camera framerate)
+ - Basical IA for human detection using caffe
+ - IA draw rectangles and enumerate all people saw
+ - Person counter displayer
